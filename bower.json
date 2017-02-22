@@ -1,0 +1,30 @@
+{
+  "name": "kalki-utility",
+  "version": "0.0.1",
+  "description": "Javascript Utility module.",
+  "authors": [
+    "Srijan Ghosh <srijanghosh.mca@gmail.com>"
+  ],
+  "keywords": [
+    "kalki-utility",
+    "srijan",
+    "utility",
+    "kalki",
+    "angularjs",
+    "angular"
+  ],
+  "main": [
+    "./dist/kalki-utility.js",
+    "./dist/kalki-utility.css"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/srijanghosh/kalki-utility",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".idea"
+  ]
+}
